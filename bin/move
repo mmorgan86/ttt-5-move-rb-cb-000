@@ -14,4 +14,4 @@ index = input_to_index(user_input)
 #call move method
 move(board, index, value = "X")
 #display the board
-display_board(move)
+display_board(board)
