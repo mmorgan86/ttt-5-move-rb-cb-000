@@ -12,4 +12,4 @@ user_input = gets.strip
 #convert user input into an array index
 index = input_to_index(user_input)
 #call move method
-move(array, index, value = "X")
+move(board, index, value = "X")
